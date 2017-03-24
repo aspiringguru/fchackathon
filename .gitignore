@@ -2,6 +2,7 @@
 node_modules
 client/node_modules
 server/node_modules
+vcap-local.json
 
 # Annoying OSX files
 .DS_Store
