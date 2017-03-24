@@ -1,0 +1,48 @@
+.fusebox
+node_modules
+client/node_modules
+server/node_modules
+
+# Annoying OSX files
+.DS_Store
+._.DS_Store
+._.TemporaryItems
+.apdisk
+
+# Annoying ST2/ST3 files
+*.sublime-projectcompletions
+*.sublime-project
+*.sublime-workspace
+
+#Tools
+.alm
+.vscode
+
+.idea
+static
+spells
+
+server/static/
+server/spells
+npm-debug.log
+.tmp
+src/js/locales/*
+
+# Secrets
+g11n/credentials.json
+
+# Temp files in build pipeline
+.browserify-client-cache.json
+.browserify-server-cache.json
+.tmp-server
+
+# Build artifacts
+dst
+dist
+build
+out
+app/node_modules
+app/public
+
+# vscode stuffs
+.vscode
