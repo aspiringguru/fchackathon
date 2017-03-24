@@ -2374,9 +2374,10 @@
 		}
 
 			ul.contact li {
+				display: inline-block;
+				vertical-align: top;
 				text-decoration: none;
-				margin: 2.5em 0 0 0;
-				padding: 0 0 0 3.25em;
+				padding: 0 1em 0 3.25em;
 				position: relative;
 			}
 
