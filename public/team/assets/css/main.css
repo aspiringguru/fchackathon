@@ -3670,3 +3670,7 @@
 			}
 
 	}
+
+.content img {
+	max-width: 50%;
+}
